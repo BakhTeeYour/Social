@@ -8,3 +8,7 @@
     color: white;
 }
 
+.item a.activeLink {
+    color: indigo;
+}
+
